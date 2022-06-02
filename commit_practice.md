@@ -26,8 +26,9 @@
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 : 
-   - 이유 : 
+   - 답 : O
+   - 이유 : working space는 각 유저가 작업 하는 공간이 되고, staging area는 commit하기 전에 준비하는 과정이 된다.
+   그리고 commit을 통해 comment 등을 이용해 수정내역과 같은 사항을 입력하여 기록한다. 
 
 
 
